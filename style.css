@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    background-color: antiquewhite;
+    flex-flow: r;
+    justify-content: space-around;
+}
+.nav ul{
+    display: flex;
+    flex-flow: row;
+   
+}
+nav li{
+    margin: 20px;
+    display: flex;
+}
+.body{
+    background-color: aquamarine;
+}
