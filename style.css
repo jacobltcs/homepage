@@ -27,3 +27,11 @@ nav li{
  flex-direction: row;
  align-items: center;
 }
+.profile{
+    display: flex;
+    flex-direction: column;
+}
+.img{
+    height: 20vh;
+    width: 20vh;
+}
